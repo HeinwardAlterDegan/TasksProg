@@ -14,10 +14,10 @@ namespace Task1Poetry
             Console.WriteLine("Песнь Касильды");
             Console.WriteLine("");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Горит звезда, черным-черна,");
-            Console.WriteLine("Кружится странная луна");
-            Console.WriteLine("Здесь, над затерянной");
-            Console.WriteLine("Каркозой.");
+            Console.WriteLine("Темнея, волны бьют о берег,");
+            Console.WriteLine("И в водах, словно в пошлой прозе,");
+            Console.WriteLine("Два солнца тонут без истерик.");
+            Console.WriteLine("Лишь тени движутся в Каркозе.");
 
             Console.WriteLine("");
 
